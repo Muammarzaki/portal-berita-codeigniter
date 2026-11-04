@@ -33,3 +33,12 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 upload/thumbnail/*
 !upload/thumbnail/.gitkeep
+
+node_modules/
+.env
+dist/
+build/
+.idea/
+.vscode/
+*.log
+
